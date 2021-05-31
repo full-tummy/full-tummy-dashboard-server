@@ -1,0 +1,4 @@
+coverage/*
+environment.ts
+
+node_modules
